@@ -1,16 +1,12 @@
-## Hi there 👋
+## Olá, sou o Gabriel 👋
 
-<!--
-**GabrielCanto-git/GabrielCanto-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Hoje eu estou fazendo a Faculdade de Ciência da Computação,  
+      estudando C e fortalecendo minha lógica de programação
+      
+- 🤔 Estou buscando aprendizado e aperfeiçoamento, 
+      qualquer chance de aprendizado é muito bem vinda
+      
+- ⚡ Fun fact: Acho interessante a área de dados(já estudei um pouco SQL), gosto de IA e Python,
+                HTML, CSS.
+                Estudei até o 3* Semestre de Engenharia da Computação.
